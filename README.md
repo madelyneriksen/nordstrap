@@ -12,5 +12,5 @@ Add the css from `dist/` to your project and import it.
 Licensed under the MIT License.
 
 #### Special Thanks
- * [Arctic Ice Studo](https://github.com/arcticicestudio/nord) for making my favorite colorscheme
+ * [Arctic Ice Studio](https://github.com/arcticicestudio/nord) for making my favorite colorscheme
  * The Bootstrap Team
